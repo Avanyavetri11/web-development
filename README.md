@@ -12,7 +12,9 @@ III. Identify the Element using DOM (Id, Class name, Tag name and CSS Selectors)
 IV. Assign and handle events using Inline and event handler and listener  
 V. Add Event Listener method to watch the event of an element  
 Step 4: Close all the structural tags  
-Step 5: Execute the web page  
+Step 5: Execute the web page 
+
+
 events:
   mouseover event 
   keybord event 

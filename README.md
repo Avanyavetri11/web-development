@@ -72,9 +72,9 @@ color: green;
 </head>   
 <body>   
 <h2> JavaScript keydown Method </h2>   
-<div id = "demoDIV" >   
+<p><div id = "demoDIV" >   
 The javascript key
-down event works after pressing the key and key in the down position on the specific tag.   
+down event works after pressing the key and key in the down position on the specific tag.</div></body></p> 
 </div>   
 <input type = "text" id = "input_class" placeholder = "write here." onkeydown = "keyDownFunction
  ()">   
